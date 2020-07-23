@@ -1,0 +1,108 @@
+<furbot>
+	<enunciado>
+		Exercicio 7. &lt;br&gt;
+		Faca o robo andar ate chegar no tesouro. &lt;br&gt;
+		Não é permitido passar pela mesma linha e coluna mais de uma vez. &lt;br&gt;
+		O robô deve informar que atingiu o objetivo.
+		 
+	</enunciado>
+
+	<mundo>
+		<qtdadeLin>8</qtdadeLin>
+		<qtdadeCol>8</qtdadeCol>
+		<explodir>true</explodir>
+	</mundo>
+
+	<robo>
+		<x>4</x>
+		<y>1</y>
+	</robo>
+
+	<objeto class="br.furb.furbot.Parede">
+		<x>4</x>
+		<y>0</y>
+		<explodir>true</explodir>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>3</x>
+		<y>5</y>
+		<explodir>true</explodir>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>3</x>
+		<y>4</y>
+		<explodir>true</explodir>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>3</x>
+		<y>3</y>
+		<explodir>true</explodir>
+	</objeto>
+	
+	
+	<objeto class="br.furb.furbot.Parede">
+		<x>4</x>
+		<y>3</y>
+		<explodir>true</explodir>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>5</x>
+		<y>3</y>
+		<explodir>true</explodir>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>6</x>
+		<y>3</y>
+		<explodir>true</explodir>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>7</x>
+		<y>3</y>
+		<explodir>true</explodir>
+	</objeto>
+	
+	
+	<objeto class="br.furb.furbot.Parede">
+		<x>7</x>
+		<y>4</y>
+		<explodir>true</explodir>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>7</x>
+		<y>5</y>
+		<explodir>true</explodir>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>4</x>
+		<y>5</y>
+		<explodir>true</explodir>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>6</x>
+		<y>5</y>
+		<explodir>true</explodir>
+	</objeto>
+	
+	<objeto class="br.furb.furbot.Parede">
+		<x>1</x>
+		<y>3</y>
+		<explodir>true</explodir>
+	</objeto>
+	
+	<objeto class="br.furb.furbot.Parede">
+		<x>5</x>
+		<y>7</y>
+		<explodir>true</explodir>
+	</objeto>
+	
+	<objeto class="br.furb.furbot.Parede">
+		<x>2</x>
+		<y>6</y>
+		<explodir>true</explodir>
+	</objeto>
+	
+	<objeto class="br.furb.furbot.Tesouro">
+		<x>6</x>
+		<y>4</y>
+	</objeto>
+</furbot>

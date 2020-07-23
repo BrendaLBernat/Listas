@@ -1,0 +1,31 @@
+<furbot>
+    <enunciado>
+        Crie um vetor do tipo Numero e outro do tipo Booleano e em seguida implemente métodos para:&lt;br&gt;&lt;br&gt;
+        a)	adicionar os objetos do tipo Numero no vetor de números;&lt;br&gt;
+        b)	adicionar os objetos do tipo Booleano no vetor de booleanos;&lt;br&gt;
+        c)	excluir o primeiro Numero do vetor;&lt;br&gt;
+        d)	excluir o primeiro Booleano com valor false do vetor. Se não houver objetos com esse valor retornar null.
+    </enunciado>
+    <mundo>
+        <qtdadeLin>8</qtdadeLin>
+        <qtdadeCol>8</qtdadeCol>
+        <explodir>true</explodir>
+    </mundo>
+    <robo>
+        <x>0</x>
+        <y>0</y>
+    </robo>
+
+    <numero qtdade="30">
+        <random/>
+        <valor randomInf="0" randomSup="100"/>
+        <bloqueado>false</bloqueado>
+    </numero>
+
+    <booleano qtdade="10">
+        <random/>
+        <valor random="true"/>
+        <bloqueado>false</bloqueado>
+    </booleano>
+
+</furbot>

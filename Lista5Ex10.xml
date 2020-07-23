@@ -1,0 +1,26 @@
+<furbot>
+    <enunciado>
+        Crie um vetor de Tesouros e em seguida implemente métodos para: &lt;br&gt;&lt;br&gt;
+        a) adicionar objetos do tipo Tesouro no vetor;&lt;br&gt;
+        b) retornar o objeto Tesouro com o maior valor e escrever;&lt;br&gt;
+        c) retornar o objeto Tesouro com o menor valor e escrever;&lt;br&gt;
+        d) retornar a soma dos valores dos Tesouros (calculando com base no vetor)&lt;br&gt;
+        e) a quantidade de Tesouros encontrados.
+    </enunciado>
+    <mundo>
+        <qtdadeLin>8</qtdadeLin>
+        <qtdadeCol>8</qtdadeCol>
+        <explodir>true</explodir>
+    </mundo>
+    <robo>
+        <x>0</x>
+        <y>0</y>
+    </robo>
+
+    <numero class="br.furb.furbot.Tesouro" qtdade="30">
+        <random/>
+        <valor randomInf="0" randomSup="100"/>
+        <bloqueado>false</bloqueado>
+    </numero>
+
+</furbot>

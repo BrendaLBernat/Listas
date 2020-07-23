@@ -1,0 +1,17 @@
+<furbot>
+	<enunciado>
+
+	</enunciado>
+	
+	<mundo>
+		<random limiteInfY="5" limiteSupY="8" limiteInfX="5" limiteSupX="8"/>
+      	<explodir>true</explodir>
+	</mundo>
+	
+	<robo>
+		<x> 0 </x>
+           <y> 0 </y>
+	</robo>
+		        
+	
+</furbot>

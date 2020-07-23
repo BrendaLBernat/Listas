@@ -1,0 +1,20 @@
+<furbot>
+	<enunciado>
+      Exercicio 4. &lt;br&gt; 
+	Faca o robo andar ate os extremos do mundo retornando a posicao inicial. &lt;br&gt;
+      Cada vez que o robo atingir um dos extremos, faca-o informar que ele chegou ate aquela posicao. &lt;br&gt;
+	A primeira coluna e linhas sao a de numero ZERO. 
+	</enunciado>
+	
+	<mundo>
+		<qtdadeLin>4</qtdadeLin>
+		<qtdadeCol>4</qtdadeCol>
+		<explodir>false</explodir>
+	</mundo>
+	
+	<robo>
+		<x>0</x>
+		<y>0</y>
+	</robo>	
+	
+</furbot>

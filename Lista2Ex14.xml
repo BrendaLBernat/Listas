@@ -1,0 +1,48 @@
+<furbot>
+	<enunciado>
+        
+	</enunciado>
+	
+	<mundo>
+		<random limiteInfY="5" limiteSupY="8" limiteInfX="5" limiteSupX="8"/>
+      <tamanhoCel>Pequena</tamanhoCel>
+		<explodir>true</explodir>
+	</mundo>
+	
+	<robo>
+		<random/>
+	</robo>
+		
+	<!-- aliens -->
+	<objeto class="br.furb.furbot.Alien">
+		<random/>
+		<bloqueado>false</bloqueado>
+	</objeto>
+        
+        <objeto class="br.furb.furbot.Alien">
+		<random/>
+		<bloqueado>false</bloqueado>
+	</objeto>
+        
+        <objeto class="br.furb.furbot.Alien">
+		<random/>
+		<bloqueado>false</bloqueado>
+	</objeto>
+        
+        <objeto class="br.furb.furbot.Alien">
+		<random/>
+		<bloqueado>false</bloqueado>
+	</objeto>
+        
+        <objeto class="br.furb.furbot.Alien">
+		<random/>		
+		<bloqueado>false</bloqueado>
+	</objeto>
+        
+        <objeto class="br.furb.furbot.Alien">
+		<random/>
+		<bloqueado>false</bloqueado>
+	</objeto>
+        
+	
+</furbot>

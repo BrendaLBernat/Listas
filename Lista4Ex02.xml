@@ -1,0 +1,20 @@
+<furbot>
+    <enunciado>ex2: gerar a sequencia do menor numero ate o maio numero encontrados</enunciado>
+    <mundo>
+        <qtdadeLin>8</qtdadeLin>
+        <qtdadeCol>8</qtdadeCol>
+        <explodir>true</explodir>
+    </mundo>
+    <robo>
+        <random/>
+    </robo>
+
+    <numero qtdade="30">
+        <random/>
+        <valor randomInf="0" randomSup="300"/>
+        <bloqueado>false</bloqueado>
+    </numero>
+
+
+
+</furbot>

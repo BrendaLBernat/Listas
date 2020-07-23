@@ -1,0 +1,73 @@
+<furbot>
+    <enunciado>ex3: tabuada dos numeros encontrados entre 1 e 10</enunciado>
+    <mundo>
+        <qtdadeLin>8</qtdadeLin>
+        <qtdadeCol>8</qtdadeCol>
+        <explodir>true</explodir>
+    </mundo>
+    <robo>
+        <random/>
+    </robo>
+
+
+    <numero>
+        <random/>
+        <valor>1</valor>
+        <bloqueado>false</bloqueado>
+    </numero>
+
+    <numero>
+        <random/>
+        <valor>2</valor>
+        <bloqueado>false</bloqueado>
+    </numero>
+
+    <numero>
+        <random/>
+        <valor>3</valor>
+        <bloqueado>false</bloqueado>
+    </numero>
+
+    <numero>
+        <random/>
+        <valor>4</valor>
+        <bloqueado>false</bloqueado>
+    </numero>
+
+    <numero>
+        <random/>
+        <valor>5</valor>
+        <bloqueado>false</bloqueado>
+    </numero>
+
+    <numero>
+        <random/>
+        <valor>6</valor>
+        <bloqueado>false</bloqueado>
+    </numero>
+
+    <numero>
+        <random/>
+        <valor>7</valor>
+        <bloqueado>false</bloqueado>
+    </numero>
+
+    <numero>
+        <random/>
+        <valor>8</valor>
+        <bloqueado>false</bloqueado>
+    </numero>
+
+    <numero>
+        <random/>
+        <valor>9</valor>
+        <bloqueado>false</bloqueado>
+    </numero>
+
+    <numero>
+        <random/>
+        <valor>10</valor>
+        <bloqueado>false</bloqueado>
+    </numero>
+
+</furbot>

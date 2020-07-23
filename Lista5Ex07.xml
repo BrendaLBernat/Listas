@@ -1,0 +1,23 @@
+<furbot>
+    <enunciado>
+
+    </enunciado>
+    <mundo>
+        <qtdadeLin>8</qtdadeLin>
+        <qtdadeCol>8</qtdadeCol>
+        <explodir>true</explodir>
+    </mundo>
+    <robo>
+        <x> 0 </x>
+	   <y> 0 </y>
+    </robo>
+
+    <objeto class="br.furb.furbot.Alien" qtdade="10">
+		<random/>
+		<bloqueado>false</bloqueado>
+	</objeto>
+
+
+
+
+</furbot>

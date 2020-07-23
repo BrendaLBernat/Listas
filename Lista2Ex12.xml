@@ -1,0 +1,21 @@
+<furbot>
+	<enunciado>
+
+	</enunciado>
+
+	<mundo>
+		<qtdadeLin>5</qtdadeLin>
+		<qtdadeCol>5</qtdadeCol>
+		<explodir>true</explodir>
+	</mundo>
+
+	<robo>
+		<x>0</x>
+		<y>0</y>
+	</robo>
+
+	<objeto class="br.furb.furbot.Alien" qtdade = "5">
+		<random limiteinfX="1" />
+		<bloqueado>false</bloqueado>
+	</objeto>
+</furbot>

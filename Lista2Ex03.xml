@@ -1,0 +1,19 @@
+<furbot>
+	<enunciado>
+      Exercicio 1. &lt;br&gt;
+	Faca o robo andar ate uma posicao de linha e coluna diferente da linha e coluna iniciais. &lt;br&gt;
+	A primeira coluna e linhas sao a de numero ZERO. 
+	</enunciado>
+	
+	<mundo>
+		<qtdadeLin>4</qtdadeLin>
+		<qtdadeCol>4</qtdadeCol>
+		<explodir>true</explodir>
+	</mundo>
+	
+	<robo>
+		<x>0</x>
+		<y>0</y>
+	</robo>	
+	
+</furbot>

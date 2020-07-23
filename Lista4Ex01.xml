@@ -1,0 +1,18 @@
+<furbot>
+    <enunciado>ex1: Informa total de numeros, media dos numeros,se somatorio>50, raiz quadrada do somatorio e concatenar os numeros a medida em que faz o trajeto</enunciado>
+    <mundo>
+        <qtdadeLin>7</qtdadeLin>
+        <qtdadeCol>7</qtdadeCol>
+        <explodir>true</explodir>
+    </mundo>
+    <robo>
+        <random/>
+    </robo>
+
+    <numero qtdade="30">
+        <random/>
+        <valor randomInf="0" randomSup="100"/>
+        <bloqueado>false</bloqueado>
+    </numero>
+
+</furbot>

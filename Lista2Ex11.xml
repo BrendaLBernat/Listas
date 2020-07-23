@@ -1,0 +1,30 @@
+<furbot>
+	<enunciado>
+    
+	</enunciado>
+	
+	<mundo>
+		<qtdadeLin>5</qtdadeLin>
+		<qtdadeCol>5</qtdadeCol>
+		<explodir>true</explodir>
+	</mundo>
+	
+	<robo>
+		<x>randomX</x>
+		<y>0</y>
+	</robo>	
+		<objeto class="br.furb.furbot.Alien">
+		<x>3</x>
+		<y>0</y>
+	</objeto>
+	
+	<objeto class="br.furb.furbot.Alien">
+		<x>3</x>
+		<y>2</y>
+	</objeto>
+	
+	<objeto class="br.furb.furbot.Alien">
+		<x>3</x>
+		<y>3</y>
+	</objeto>
+</furbot>

@@ -1,0 +1,26 @@
+<furbot>
+	<enunciado>
+	Lista 3 - Exercício 2
+	</enunciado>
+	
+	<mundo>
+		<qtdadeLin>4</qtdadeLin>
+		<qtdadeCol>4</qtdadeCol>
+		<explodir>true</explodir>
+	</mundo>
+	
+	<robo>
+		<x>0</x>
+		<y>0</y>
+	</robo>
+
+	<numero qtdade = "8">
+		<valor randomInf="1"/>
+		<random/>
+	</numero>
+	
+	<objeto class="br.furb.furbot.Alien" qtdade = "5">
+		<random/>
+		<bloqueado>false</bloqueado>
+	</objeto>
+</furbot>
